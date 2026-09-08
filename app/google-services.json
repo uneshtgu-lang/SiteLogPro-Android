@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "63929530503",
+    "project_id": "site-log-pro-c4d1b",
+    "storage_bucket": "site-log-pro-c4d1b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63929530503:android:4d0a080e88ba0d8d726022",
+        "android_client_info": {
+          "package_name": "com.tgksolutions.sitelogpro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIjfWxU4M0kWzNPk5HmJLnBPwaLVrpreU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
